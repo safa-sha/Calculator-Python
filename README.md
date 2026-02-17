@@ -21,3 +21,5 @@ A beginner-friendly calculator application built using Python and Tkinter.
 
 ## Note
 This project was created as a learning exercise to understand Python GUI development.
+
+Last updated: today
